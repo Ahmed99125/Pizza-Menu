@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ahmed99125.github.io/Pizza-Menu/static/css/main.ec313818.css",
+    "main.js": "/Ahmed99125.github.io/Pizza-Menu/static/js/main.2a1530d3.js",
+    "index.html": "/Ahmed99125.github.io/Pizza-Menu/index.html",
+    "main.ec313818.css.map": "/Ahmed99125.github.io/Pizza-Menu/static/css/main.ec313818.css.map",
+    "main.2a1530d3.js.map": "/Ahmed99125.github.io/Pizza-Menu/static/js/main.2a1530d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.2a1530d3.js"
+  ]
+}
